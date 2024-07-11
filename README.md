@@ -6,7 +6,7 @@ The OpenVINO™ (Open Visual Inference and Neural Network Optimization) toolkit 
 
 
 ![wide_blob](https://github.com/Chandrashekar-Dappin/Open-vino-Chatbot/assets/172174440/da2a14d1-25f6-44f1-acb9-549743402c08)
-
+<img src="![wide_blob](https://github.com/Chandrashekar-Dappin/Open-vino-Chatbot/assets/172174440/da2a14d1-25f6-44f1-acb9-549743402c08)" alt="OpenVINO Toolkit" width="300"/>
 # Running OpenVINO™ Projects on Google Colab
 
 Google Colab is an excellent platform for developing and testing OpenVINO™ projects. Follow these steps to set up and run OpenVINO™ on Colab:
