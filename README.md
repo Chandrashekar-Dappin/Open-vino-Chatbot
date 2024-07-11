@@ -38,4 +38,8 @@ Google Colab is an excellent platform for developing and testing OpenVINO™ pro
 
 By following these steps, you can effectively develop and test your OpenVINO™ projects on Google Colab, leveraging the cloud-based resources for deep learning inference applications.
 
+Getting Started
+To begin using OpenVINO™, refer to Intel's official documentation and resources for installation guides, tutorials, and sample applications. Explore the provided examples and tools to understand how to leverage OpenVINO™ for your specific AI and deep learning projects.
+
+By leveraging the capabilities of the OpenVINO™ toolkit, developers can accelerate the deployment of AI-powered solutions, optimize performance, and achieve efficient inference across a wide range of applications and industries.
 
