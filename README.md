@@ -43,3 +43,8 @@ To begin using OpenVINO™, refer to Intel's official documentation and resource
 
 By leveraging the capabilities of the OpenVINO™ toolkit, developers can accelerate the deployment of AI-powered solutions, optimize performance, and achieve efficient inference across a wide range of applications and industries.
 
+## Getting Started
+
+To begin using OpenVINO™, refer to Intel's official documentation and resources for installation guides, tutorials, and sample applications. Explore the provided examples and tools to understand how to leverage OpenVINO™ for your specific AI and deep learning projects.
+
+By leveraging the capabilities of the OpenVINO™ toolkit, developers can accelerate the deployment of AI-powered solutions, optimize performance, and achieve efficient inference across a wide range of applications and industries.
