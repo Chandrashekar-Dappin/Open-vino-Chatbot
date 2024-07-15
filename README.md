@@ -1,5 +1,4 @@
 ## Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and fine-tuning of LLM Models using Intel® OpenVINO™  
-![image](https://github.com/user-attachments/assets/50586013-aeb2-453f-bd8c-008b05fe1c7f)
 
 ![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/teamlead.png) ![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/mentor.png)  
 Chandrashekar C Dappin         ______________               Vijayakumar Sajjanar
