@@ -68,4 +68,4 @@ By leveraging the capabilities of the OpenVINO™ toolkit, developers can accele
 >making it ideal for applications requiring real-time data,
 >such as occupancy management and traffic flow control in public spaces
 >and commercial settings.
->
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(5).png)
