@@ -60,7 +60,8 @@ By leveraging the capabilities of the OpenVINO™ toolkit, developers can accele
 > Monocular Depth Estimation is the task of estimating scene depth using a single image.
 > It has many potential applications in robotics, 3D reconstruction, medical imaging and autonomous systems.
 > This tutorial uses a neural network model called MiDaS, which was developed by the Embodied AI Foundation.
-
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(3).png)
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(4).png)
 ## Results from Person Counting System
 >By utilizing the OpenVINO runtime on Intel hardware,
 >the system achieves significant improvements in processing speed,
