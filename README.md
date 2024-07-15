@@ -86,6 +86,6 @@ Chandrashekar C Dappin	dappinchandrashekar@gmail.com	9148185352
 Vijayakumar Sajjanar	Assistant Professor ec.vijaykumar@bldeacet.ac.in	9980677175  
 
 ## Acknowledgements
-Special thanks with gratitude to Mr.Abhishek Nandy Sir for all the guidance.  
+Special thanks with gratitude to Mr.Mushtaq Ahmed & Mr.Abhishek Nandy Sir for all the guidance.  
 A sincere heartfelt thanks to Intel Unnati Industrial Training Team, and Intel corporation.  
 Thank You BLDEACET Management, Faculty, Staff, and friends.  
