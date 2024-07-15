@@ -1,13 +1,25 @@
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/teamlead.png) ![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/mentor.png)  
+Chandrashekar C Dappin         ______________               Vijayakumar Sajjanar
+
+
+![image](https://github.com/user-attachments/assets/844e64e9-8b7a-4b02-ac61-2e0cd0bd6621)
+
 <img src="https://github.com/Chandrashekar-Dappin/Open-vino-Chatbot/assets/172174440/c7f674a1-e928-4925-b091-f9a73d8bd584" alt="OpenVINO Toolkit" width="300"/>
 
 # OpenVINO™ Toolkit
 
 The OpenVINO™ (Open Visual Inference and Neural Network Optimization) toolkit is a comprehensive set of tools designed to streamline the deployment of high-performance deep learning inference applications. Developed by Intel, OpenVINO™ helps developers harness the full potential of Intel hardware for AI, including CPUs, GPUs, VPUs, and FPGAs.
+## Table of Contents
+- [Running OpenVINO™ Projects on Google Colab](#Running-OpenVINO™-Projects-on-Google-Colab)
+- [Steps to Get Started](#Steps-to-Get-Started)
+- [Results from MonoDepth Estimation](#Results-from-MonoDepth-Estimation)
+- [Results from Person Counting System using YOLOV8 and OpenVINO](#Results-from-Person-Counting-System)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 
 
-
-# Running OpenVINO™ Projects on Google Colab
+## Running OpenVINO™ Projects on Google Colab
 <img src="https://github.com/Chandrashekar-Dappin/Open-vino-Chatbot/assets/172174440/da2a14d1-25f6-44f1-acb9-549743402c08" alt="wide_blob" width="300"/>
 
 Google Colab is an excellent platform for developing and testing OpenVINO™ projects. Follow these steps to set up and run OpenVINO™ on Colab:
@@ -48,3 +60,30 @@ By leveraging the capabilities of the OpenVINO™ toolkit, developers can accele
 To begin using OpenVINO™, refer to Intel's official documentation and resources for installation guides, tutorials, and sample applications. Explore the provided examples and tools to understand how to leverage OpenVINO™ for your specific AI and deep learning projects.
 
 By leveraging the capabilities of the OpenVINO™ toolkit, developers can accelerate the deployment of AI-powered solutions, optimize performance, and achieve efficient inference across a wide range of applications and industries.
+
+## Results from MonoDepth Estimation
+
+> Monocular Depth Estimation is the task of estimating scene depth using a single image.
+> It has many potential applications in robotics, 3D reconstruction, medical imaging and autonomous systems.
+> This tutorial uses a neural network model called MiDaS, which was developed by the Embodied AI Foundation.
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(3).png)
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(4).png)
+## Results from Person Counting System
+>By utilizing the OpenVINO runtime on Intel hardware,
+>the system achieves significant improvements in processing speed,
+>making it ideal for applications requiring real-time data,
+>such as occupancy management and traffic flow control in public spaces
+>and commercial settings.
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(5).png)
+
+## Contact
+Nomination Details
+154	BLDEA's V. P. Dr. P. G. HALAKATTI COLLEGE OF ENGINEERING AND TECHNOLOGY VIJAYAPURA  
+Pradeep V Malaji	Vice Principal (Academics and Research)	vp.academicresearch@bldeacet.ac.in	7845755299  
+Chandrashekar C Dappin	dappinchandrashekar@gmail.com	9148185352  
+Vijayakumar Sajjanar	Assistant Professor ec.vijaykumar@bldeacet.ac.in	9980677175  
+
+## Acknowledgements
+Special thanks with gratitude to Mr.Abhishek Nandy Sir for all the guidance.  
+A sincere heartfelt thanks to Intel Unnati Industrial Training Team, and Intel corporation.  
+Thank You BLDEACET Management, Faculty, Staff, and friends.  
