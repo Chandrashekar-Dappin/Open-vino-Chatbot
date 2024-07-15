@@ -3,11 +3,17 @@
 # OpenVINO™ Toolkit
 
 The OpenVINO™ (Open Visual Inference and Neural Network Optimization) toolkit is a comprehensive set of tools designed to streamline the deployment of high-performance deep learning inference applications. Developed by Intel, OpenVINO™ helps developers harness the full potential of Intel hardware for AI, including CPUs, GPUs, VPUs, and FPGAs.
+## Table of Contents
+- [Running OpenVINO™ Projects on Google Colab](#Running-OpenVINO™-Projects-on-Google-Colab)
+- [Steps to Get Started](#Steps-to-Get-Started)
+- [Results from MonoDepth Estimation](#Results-from-MonoDepth-Estimation)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 
 
-
-# Running OpenVINO™ Projects on Google Colab
+## Running OpenVINO™ Projects on Google Colab
 <img src="https://github.com/Chandrashekar-Dappin/Open-vino-Chatbot/assets/172174440/da2a14d1-25f6-44f1-acb9-549743402c08" alt="wide_blob" width="300"/>
 
 Google Colab is an excellent platform for developing and testing OpenVINO™ projects. Follow these steps to set up and run OpenVINO™ on Colab:
@@ -48,3 +54,9 @@ By leveraging the capabilities of the OpenVINO™ toolkit, developers can accele
 To begin using OpenVINO™, refer to Intel's official documentation and resources for installation guides, tutorials, and sample applications. Explore the provided examples and tools to understand how to leverage OpenVINO™ for your specific AI and deep learning projects.
 
 By leveraging the capabilities of the OpenVINO™ toolkit, developers can accelerate the deployment of AI-powered solutions, optimize performance, and achieve efficient inference across a wide range of applications and industries.
+
+## Results from MonoDepth Estimation
+
+> Monocular Depth Estimation is the task of estimating scene depth using a single image.
+> It has many potential applications in robotics, 3D reconstruction, medical imaging and autonomous systems.
+> This tutorial uses a neural network model called MiDaS, which was developed by the Embodied AI Foundation.
