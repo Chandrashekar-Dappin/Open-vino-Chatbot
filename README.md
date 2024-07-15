@@ -1,5 +1,5 @@
-![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/mentor.jpg)![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/teamlead.jpg)
-Chandrashekar C Dappin Vijayakumar Sajjanar
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/mentor.png)![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/teamlead.png)  
+Chandrashekar C Dappin              Vijayakumar Sajjanar
 
 
 ![image](https://github.com/user-attachments/assets/844e64e9-8b7a-4b02-ac61-2e0cd0bd6621)
