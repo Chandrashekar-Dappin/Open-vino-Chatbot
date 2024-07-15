@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/844e64e9-8b7a-4b02-ac61-2e0cd0bd6621)
+
 <img src="https://github.com/Chandrashekar-Dappin/Open-vino-Chatbot/assets/172174440/c7f674a1-e928-4925-b091-f9a73d8bd584" alt="OpenVINO Toolkit" width="300"/>
 
 # OpenVINO™ Toolkit
@@ -69,3 +72,15 @@ By leveraging the capabilities of the OpenVINO™ toolkit, developers can accele
 >such as occupancy management and traffic flow control in public spaces
 >and commercial settings.
 ![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/download%20(5).png)
+
+## Contact
+Nomination Details
+154	BLDEA's V. P. Dr. P. G. HALAKATTI COLLEGE OF ENGINEERING AND TECHNOLOGY VIJAYAPURA  
+Pradeep V Malaji	Vice Principal (Academics and Research)	vp.academicresearch@bldeacet.ac.in	7845755299  
+Chandrashekar C Dappin	dappinchandrashekar@gmail.com	9148185352  
+Vijayakumar Sajjanar	Assistant Professor ec.vijaykumar@bldeacet.ac.in	9980677175  
+
+## Acknowledgements
+Special thanks with gratitude to Mr.Abhishek Nandy Sir for all the guidance.
+A sincere heartfelt thanks to Intel Unnati Industrial Training Team, and Intel corporation.
+Thank You BLDEACET Management, Faculty, Staff, and friends.
