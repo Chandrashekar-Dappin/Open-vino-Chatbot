@@ -7,7 +7,7 @@ The OpenVINO™ (Open Visual Inference and Neural Network Optimization) toolkit 
 - [Running OpenVINO™ Projects on Google Colab](#Running-OpenVINO™-Projects-on-Google-Colab)
 - [Steps to Get Started](#Steps-to-Get-Started)
 - [Results from MonoDepth Estimation](#Results-from-MonoDepth-Estimation)
-- [License](#license)
+- [Results from Person Counting System using YOLOV8 and OpenVINO](#Results-from-Person-Counting-System)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -60,3 +60,11 @@ By leveraging the capabilities of the OpenVINO™ toolkit, developers can accele
 > Monocular Depth Estimation is the task of estimating scene depth using a single image.
 > It has many potential applications in robotics, 3D reconstruction, medical imaging and autonomous systems.
 > This tutorial uses a neural network model called MiDaS, which was developed by the Embodied AI Foundation.
+
+## Results from Person Counting System
+>By utilizing the OpenVINO runtime on Intel hardware,
+>the system achieves significant improvements in processing speed,
+>making it ideal for applications requiring real-time data,
+>such as occupancy management and traffic flow control in public spaces
+>and commercial settings.
+>
