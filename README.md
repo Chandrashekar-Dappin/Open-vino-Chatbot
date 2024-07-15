@@ -1,3 +1,6 @@
+![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/mentor.jpg)![img](https://github.com/vjkr/openVINO-depth-estimation/blob/main/notebooks/vision-monodepth/teamlead.jpg)
+Chandrashekar C Dappin Vijayakumar Sajjanar
+
 
 ![image](https://github.com/user-attachments/assets/844e64e9-8b7a-4b02-ac61-2e0cd0bd6621)
 
@@ -81,6 +84,6 @@ Chandrashekar C Dappin	dappinchandrashekar@gmail.com	9148185352
 Vijayakumar Sajjanar	Assistant Professor ec.vijaykumar@bldeacet.ac.in	9980677175  
 
 ## Acknowledgements
-Special thanks with gratitude to Mr.Abhishek Nandy Sir for all the guidance.
-A sincere heartfelt thanks to Intel Unnati Industrial Training Team, and Intel corporation.
-Thank You BLDEACET Management, Faculty, Staff, and friends.
+Special thanks with gratitude to Mr.Abhishek Nandy Sir for all the guidance.  
+A sincere heartfelt thanks to Intel Unnati Industrial Training Team, and Intel corporation.  
+Thank You BLDEACET Management, Faculty, Staff, and friends.  
